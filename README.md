@@ -8,3 +8,5 @@ Most of my info is on [my website](https://thepuppet57.141412.xyz)
 # Stats no one reads:
 
 ![thepuppetqueen57](https://github-readme-stats.vercel.app/api/top-langs?username=thepuppetqueen57&show_icons=true&theme=tokyonight&layout=compact)
+
+![thepuppetqueen57](https://github-readme-stats.vercel.app/api?username=thepuppetqueen57&show_icons=true&theme=radical)
