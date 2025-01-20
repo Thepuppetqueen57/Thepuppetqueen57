@@ -5,6 +5,10 @@ I'm pretty new to programming <br>
 I have a programming group called [the puppet studios (tps)](https://thepuppet57.141412.xyz/tps) <br>
 Most of my info is on [my website](https://thepuppet57.141412.xyz)
 
+Note: My new website is hosted on my raspberry pi. Tor is required. Tor cuz I don't wanna leak my ip.
+
+New website: http://yuoqw7ywmixj55zxljkhqvcwunovze32df7pqemwacfaq2itqefbixad.onion
+
 # Stats no one reads:
 
 <div align="center">
