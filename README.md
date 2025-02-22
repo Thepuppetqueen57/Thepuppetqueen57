@@ -6,7 +6,7 @@ I have a programming group called [the puppet studios (tps)](https://thepuppet57
 
 Note: My new website is hosted on my raspberry pi. Tor is required. Tor cuz I don't wanna leak my ip.
 
-New website: [click here](http://yuoqw7ywmixj55zxljkhqvcwunovze32df7pqemwacfaq2itqefbixad.onion)
+New website: [click here](http://puppet57.xyz)
 Old website: [click here](http://thepuppet57.alwaysdata.net)
 
 # Stats no one reads:
