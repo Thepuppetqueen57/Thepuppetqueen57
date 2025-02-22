@@ -4,7 +4,7 @@
 I'm pretty new to programming <br>
 I have a programming group called [the puppet studios (tps)](https://thepuppet57.141412.xyz/tps) <br>
 
-Note: My new website is hosted on my raspberry pi. Tor is required. Tor cuz I don't wanna leak my ip.
+Note: My new website is hosted on my raspberry pi because I hate web hosts.
 
 New website: [click here](http://puppet57.xyz)
 Old website: [click here](http://thepuppet57.alwaysdata.net)
