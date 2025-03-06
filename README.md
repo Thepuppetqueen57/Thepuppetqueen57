@@ -1,4 +1,4 @@
-# Hi! I'm [puppet!](https://thepuppet57.141412.xyz)
+# Hi! I'm [puppet!](https://puppet57.xyz)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&lines=I+never+touch+grass)](https://git.io/typing-svg)
 
 I'm pretty new to programming <br>
