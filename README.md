@@ -1,8 +1,7 @@
 # Hi! I'm [puppet!](https://puppet57.xyz)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&lines=I+never+touch+grass)](https://git.io/typing-svg)
 
-I'm pretty new to programming <br>
-I have a programming group called [the puppet studios (tps)](https://thepuppet57.141412.xyz/tps) <br>
+I'm pretty new to programming
 
 Note: My new website is hosted on my raspberry pi because I hate web hosts.
 
