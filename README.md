@@ -5,8 +5,7 @@ I'm pretty new to programming
 
 Note: My new website is hosted on my raspberry pi because I hate web hosts.
 
-New website: [click here](http://puppet57.xyz)
-Old website: [click here](http://thepuppet57.alwaysdata.net)
+Website: [click here](http://puppet57.xyz)
 
 # Stats no one reads:
 
