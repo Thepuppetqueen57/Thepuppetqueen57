@@ -3,8 +3,6 @@
 
 I've been programming for about 6 months.
 
-Note: My new website is hosted on my raspberry pi because I hate web hosts.
-
 Website: [click here](http://puppet57.xyz)
 
 # Stats no one reads:
