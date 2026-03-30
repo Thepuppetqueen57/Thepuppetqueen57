@@ -1,7 +1,7 @@
 # Hi! I'm [puppet!](https://puppet57.xyz)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&lines=I+never+touch+grass)](https://git.io/typing-svg)
 
-I've been programming for about 6 months.
+I've been programming for about 2 years.
 
 Website: [click here](http://puppet57.xyz)
 
